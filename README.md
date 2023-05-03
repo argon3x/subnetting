@@ -16,7 +16,7 @@
 
         ./subnetting.py
 
-### Screenshots
+### 📸 Screenshots 📸
 
 ![screenshot](./01.png)
 <br><br>
