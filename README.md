@@ -19,7 +19,7 @@
 ### Screenshots
 
 ![screenshot](./01.png)
-<br>
+<br><br>
 ![screenshot](./02.png)
 
 ### Sopported
